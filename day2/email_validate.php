@@ -23,7 +23,7 @@
 
                 
     ?> 
-        <h1>Data Alreasy Exist</h1>
+        <h1>Data Already Exist</h1>
         <label for="">First Name</label>
         <input type="text" name="fname" value="<?php echo $row['first_name']?>" required\>
         <label for="">Email</label>
